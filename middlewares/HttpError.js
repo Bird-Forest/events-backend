@@ -1,4 +1,3 @@
-// ** Значення за замовчуванням, якщо в окремій функції не прописаний message **
 const errorMessageList = {
   400: "Bad request HttpError",
   401: "Not authorized HttpError",

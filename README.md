@@ -1,4 +1,4 @@
-# pf-blog-backend
+# events-backend
 
 ### Команди:
 
