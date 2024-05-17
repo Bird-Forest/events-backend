@@ -2,9 +2,11 @@ const { ctrlWrapper, HttpError } = require("../middlewares");
 const { Event } = require("../models/event");
 // ***
 const getAllEvents = async (req, res) => {
-  // const { page = 1, limit = 10 } = req.query;
-  // const skip = (page - 1) * limit;
-  const result = await Event.find();
+  const { page = 1, limit = 4 } = req.query;
+
+  const skip = (page - 1) * limit;
+
+  const result = await Event.find().skip(skip).limit(parseInt(limit));
   res.json(result);
 };
 // ***
