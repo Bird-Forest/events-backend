@@ -6,8 +6,9 @@ const { isValidId } = require("../../middlewares");
 // const { schemas } = require("../../models/event");
 
 router.post("/", ctrl.addEvent);
-
+router.get("/all", ctrl.getEvents);
 router.get("/", ctrl.getAllEvents);
+router.get("/:category", ctrl.getCategoryEvents);
 router.get("/:id", isValidId, ctrl.getEventById);
 router.put(
   "/:id",

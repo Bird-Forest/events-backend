@@ -1,5 +1,11 @@
 const { ctrlWrapper, HttpError } = require("../middlewares");
 const { Event } = require("../models/event");
+
+// ***
+const getEvents = async (req, res) => {
+  const result = await Event.find();
+  res.json(result);
+};
 // ***
 const getAllEvents = async (req, res) => {
   const { page = 1, limit = 4 } = req.query;
@@ -10,8 +16,17 @@ const getAllEvents = async (req, res) => {
   res.json(result);
 };
 // ***
+const getCategoryEvents = async (req, res) => {
+  const { category } = req.params;
+
+  const result = await Event.find({ category });
+
+  res.json(result);
+};
+// ***
 const getEventById = async (req, res) => {
   const { id } = req.params;
+
   const result = await Event.findById(id);
   if (!result) {
     throw HttpError(404, "Not found");
@@ -38,7 +53,9 @@ const updateEvent = async (req, res) => {
 };
 
 module.exports = {
+  getEvents: ctrlWrapper(getEvents),
   getAllEvents: ctrlWrapper(getAllEvents),
+  getCategoryEvents: ctrlWrapper(getCategoryEvents),
   addEvent: ctrlWrapper(addEvent),
   getEventById: ctrlWrapper(getEventById),
   updateEvent: ctrlWrapper(updateEvent),
