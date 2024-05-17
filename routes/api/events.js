@@ -8,7 +8,7 @@ const { isValidId } = require("../../middlewares");
 router.post("/", ctrl.addEvent);
 router.get("/all", ctrl.getEvents);
 router.get("/", ctrl.getAllEvents);
-router.get("/:category", ctrl.getCategoryEvents);
+router.get("/filter", ctrl.getFilterEvents);
 router.get("/:id", isValidId, ctrl.getEventById);
 router.put(
   "/:id",

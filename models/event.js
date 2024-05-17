@@ -50,11 +50,8 @@ const eventSchema = new Schema(
 
 eventSchema.post("save", validateMongoose);
 
-// const updateSchema = Joi.array().items(Joi.string(), Joi.number());
-
 const Event = model("event", eventSchema);
 
 module.exports = {
   Event,
-  // updateSchema,
 };

@@ -16,10 +16,11 @@ const getAllEvents = async (req, res) => {
   res.json(result);
 };
 // ***
-const getCategoryEvents = async (req, res) => {
-  const { category } = req.params;
+const getFilterEvents = async (req, res) => {
+  const { organizer: query } = req.query;
+  console.log("QUERY", query);
 
-  const result = await Event.find({ category });
+  const result = await Event.find({ organizer: query });
 
   res.json(result);
 };
@@ -55,7 +56,7 @@ const updateEvent = async (req, res) => {
 module.exports = {
   getEvents: ctrlWrapper(getEvents),
   getAllEvents: ctrlWrapper(getAllEvents),
-  getCategoryEvents: ctrlWrapper(getCategoryEvents),
+  getFilterEvents: ctrlWrapper(getFilterEvents),
   addEvent: ctrlWrapper(addEvent),
   getEventById: ctrlWrapper(getEventById),
   updateEvent: ctrlWrapper(updateEvent),
