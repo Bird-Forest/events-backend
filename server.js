@@ -6,8 +6,6 @@ const { DB_HOST, PORT } = process.env;
 
 mongoose.set("strictQuery", true);
 
-// *** RENDER PORT ***
-
 mongoose
   .connect(DB_HOST)
   .then(() => {
