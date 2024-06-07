@@ -1,0 +1,490 @@
+[
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Front-end developer",
+    "description": "Frontend розробник може легко створити сторінки вебсайту чи вебдодаток. Він відповідає за те, щоб сторінка мала гарний вигляд на різних пристроях, реалізує анімації та інші візуальні ефекти. Саме завдяки frontend розробнику ти читаєш цей текст зараз :)",
+    "organizer": "Mate academy",
+    "participants": [],
+    "web": "https://mate.academy/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Python developer",
+    "description": "Python дозволяє тобі не тільки розробляти сайти та займатись аналітикою даних, а ще й будувати алгоритми, тестувати програми та навіть створювати штучні інтелекти. Це все лише питання твоїх амбіцій.",
+    "organizer": "Mate academy",
+    "participants": [],
+    "web": "https://mate.academy/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Java developer",
+    "description": "Мова програмування Java існує вже понад 20 років, і її використувають майже в усіх галузях: від мобільних додатків до сайтів, від фінансової сфери до аграрної. Java легко вивчається новачками",
+    "organizer": "Mate academy",
+    "participants": [],
+    "web": "https://mate.academy/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Full-stack developer",
+    "description": "Fullstack developer вміє працювати як з фронтендом, так і з бекендом сайта, що дозволяє релізовувати будь-яку ідею комплексно і самостійно. Ця професія різноманітна й творча, ти точно не будеш нудьгувати.",
+    "organizer": "Mate academy",
+    "participants": [],
+    "web": "https://mate.academy/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "QA engineer",
+    "description": "QA спеціаліст перевіряє IT-продукти на міцність. Він розробляє плани тестування додатків та сайтів, щоб користувачі не стикалися з помилками чи проблемами під час використання продукта.",
+    "organizer": "Mate academy",
+    "participants": [],
+    "web": "https://mate.academy/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "UI/UX designer",
+    "description": "UI/UX designer, як професійний шпигун, дізнається про все, що турбує користувача. На основі цього, він робить сайти та додатки зручними й естетичними. Ця професія поєднує в собі як творчість, так і аналітику.",
+    "organizer": "Mate academy",
+    "participants": [],
+    "web": "https://mate.academy/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Front-end developer",
+    "description": "Освоєння Front-End розробки може бути відмінним вибором для тих, хто цікавиться веб-розробкою та хоче мати вплив на вигляд та функціональність веб-проектів.",
+    "organizer": "Web Academy",
+    "participants": [],
+    "web": "https://web-academy.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Python developer",
+    "description": "Цей Курс Python для всіх, хто хоче працювати і заробляти в IT. Для тих, хто за короткий термін хоче освоїти професію веб-розробника, в колі однодумців та отримати підтримку та фідбек тренера Python-Developer’а. ",
+    "organizer": "Web Academy",
+    "participants": [],
+    "web": "https://web-academy.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Cybersecurity",
+    "description": "Курс з кібербезпеки — це найкращий спосіб підготувати себе до захисту інформації та мереж в сучасному цифровому світі. Незалежно від вашого попереднього досвіду або технічної освіти, цей курс призначений для всіх, хто цікавиться кібербезпекою. ",
+    "organizer": "Web Academy",
+    "participants": [],
+    "web": "https://web-academy.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Product Manager ",
+    "description": "Професія менеджера продукту (Product Manager) в галузі IT може бути цікавою і стимулюючою для тих, хто цікавиться технологіями, інноваціями і розвитком продуктів. ",
+    "organizer": "Web Academy",
+    "participants": [],
+    "web": "https://web-academy.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "QA engineer",
+    "description": "Цей Курс QA для всіх, хто хоче працювати і заробляти в IT. Для тих, хто за короткий термін хоче освоїти професію, не маючи при цьому досвіду роботи та технічної освіти. ",
+    "organizer": "Web Academy",
+    "participants": [],
+    "web": "https://web-academy.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "UI/UX designer",
+    "description": "Веб-дизайн — це цікава та перспективна професія, яка може принести як творче задоволення, так і фінансову стабільність.",
+    "organizer": "Web Academy",
+    "participants": [],
+    "web": "https://web-academy.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Data Analytics",
+    "description": "Курс з Дата Аналізу — найкращий спосіб підготувати себе до вивчення та розвитку в сфері аналізу даних в сучасному цифровому світі.  ",
+    "organizer": "Web Academy",
+    "participants": [],
+    "web": "https://web-academy.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Front-end developer",
+    "description": "Програма навчання Junior Frontend Developer. На онлайн-курсі ти навчишся створювати інтерфейси вебсайтів та застосунків",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua-ru/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Full-stack developer",
+    "description": "Опануйте професію Junior Fullstack Developer з повним циклом створення сучасних вебсайтів та вебзастосунків з нуля за 10 місяців",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua-ru/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Java developer",
+    "description": "Ти навчишся створювати «начинку» вебсайтів, програм, застосунків і зможеш працювати Junior Java Developer",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua-ru/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Python developer",
+    "description": "Навчання Python для початківців. Ти навчишся створювати «начинку» програм і зможеш працювати Python зі знаннями Data Science and Machine Learning",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua-ru/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "QA engineer",
+    "description": "Ти навчишся тестувати вебсайти і мобільні застосунки та зможеш працювати Junior QA Engineer",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua-ru/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "UI/UX designer",
+    "description": "Ти навчишся створювати сучасні інтерфейси та зможеш працювати UI/UX дизайнером у IT або Digital",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua-ru/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Cybersecurity",
+    "description": "На курсі ти навчишся створювати систему кіберзахисту окремих застосунків, веб-платформі інфраструктури бізнесу в цілому",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua-ru/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Project management",
+    "description": "Ти навчишся керувати IT-проєктами, Agile-командами і зможеш працювати проджект-менеджером в IT або Digital",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua-ru/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Front-end developer",
+    "description": "Розробка видимої частини будь-якого сайту називається Front-end, і це область програмування, яка розвивається швидше за інші. Жоден сучасний веб-сайт і веб-додаток не обійдуться без Front-end розробника.",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/ru/courses"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Full-stack developer",
+    "description": "На курсі Full-Stack ти зможеш швидко засвоїти навички розробки мовою JavaScript з обох боків — клієнтського та серверного (Front-end і Back-end).",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/ru/courses"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Java developer",
+    "description": "Java — найбільш поширена мова програмування, вона не складна в освоєнні, тому підходить тим, хто вперше підійшов до вивчення програмування, а попит на Java розробників стабільно високий. ",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/ru/courses"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Python developer",
+    "description": "PHP — скриптова мова загального призначення, яка інтенсивно застосовується для розробки веб-додатків. В даний час вона є одним з лідерів серед мов, що застосовуються для створення динамічних веб-сайтів. ",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/ru/courses"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "QA engineer",
+    "description": "Курс по тестуванню програмного забезпечення QA Manual — це хороший спосіб розвитку вашої кар'єри в IT-індустрії.",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/ru/courses"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "UI/UX designer",
+    "description": "Цей курс є ідеальним вибором для тих, хто бажає вивчити мистецтво створення інтуїтивно зрозумілих та естетично приємних інтерфейсів для вебсайтів і застосунків. ",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/ru/courses"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Project Management",
+    "description": "Курс розглядає мистецтво управління проектами. Він підійде тим, хто хоче зробити кар'єру в IT або створити свій технологічний проект.",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/ru/courses"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Recruitment & HR",
+    "description": "IT-сфера — це динамічне середовище, що постійно розвивається , і по-справжньому досвідчених і кваліфікованих фахівців знайти складно. ",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/ru/courses"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Front-end developer",
+    "description": "Студенти Beetroot Academy переконалися, що відкрити нові кар'єрні можливості можна за лічені місяці. Найважче — почати! ",
+    "organizer": "Beetroot Academy",
+    "participants": [],
+    "web": "https://beetroot.academy"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Project management",
+    "description": "Project Manager (PM) або проєктний менеджер займається управлінням проєктами. Їхнє завдання – створити ефективний робочий процес та дбати про успішність проєкту. ",
+    "organizer": "Beetroot Academy",
+    "participants": [],
+    "web": "https://beetroot.academy"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Business Analysis",
+    "description": "Ідеальний курс для тих, хто хоче вивчити бізнес-аналіз з нуля! Хочеш перейти в IT, отримати нову професію без технічного бекграунду і стати сильним трейні або джуніор бізнес-аналітиком? Тоді цей курс для тебе.",
+    "organizer": "Beetroot Academy",
+    "participants": [],
+    "web": "https://beetroot.academy"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Python developer",
+    "description": "‍Python — інтерпретована мова програмування. Ти пишеш програму як текст, запускаєш її та бачиш результат. Ми навчимо тебе основ програмування, розповімо, як користуватись фреймворками.",
+    "organizer": "Beetroot Academy",
+    "participants": [],
+    "web": "https://beetroot.academy"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "QA engineer",
+    "description": "Тестувальники займаються тестуванням програмного забезпечення, виявленням та усуненням помилок або так званих багів.",
+    "organizer": "Beetroot Academy",
+    "participants": [],
+    "web": "https://beetroot.academy"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "UI/UX designer",
+    "description": "UX/UI дизайнери розробляють інтерфейси, з якими взаємодіє користувач. Вони можуть працювати із сайтами, мобільними застосунками, платіжними системами, дашбордами тощо. ",
+    "organizer": "Beetroot Academy",
+    "participants": [],
+    "web": "https://beetroot.academy"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Front-end developer",
+    "description": "Найбільший курс front end розробки з працевлаштуванням. Навчимо вас не тільки HTML/CSS, Git, JavaScript, TypeScript React, Angular, , а ще і Node.JS, MySQL, MongoDB, Nest.JS, Next.JS",
+    "organizer": "OKTEN",
+    "participants": [],
+    "web": "https://owu.com.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Full-stack developer",
+    "description": "Понад 960 годин навчання, під час яких ви вивчите такі технології як HTML/CSS, GIT, React або Angular, MySQL, MongoDB, Java або Python або Node.JS",
+    "organizer": "OKTEN",
+    "participants": [],
+    "web": ""
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Java developer",
+    "description": "Протягом останніх 8 років ми доводимо, що головне - це бажання та продуктивна школа програмування з гарною програмою курсу java.",
+    "organizer": "OKTEN",
+    "participants": [],
+    "web": "https://owu.com.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Python developer",
+    "description": "Ми розробили спеціальну програму, яка містить в собі 6 занять на тиждень, та спеціальний підхід до її викладання",
+    "organizer": "OKTEN",
+    "participants": [],
+    "web": "https://owu.com.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "QA engineer",
+    "description": "Курс тестерів + автоматизація на java з Selenium 3. Найбільший курс автоматизації в Україні з комплексом технологій необхідних для працевлаштування",
+    "organizer": "OKTEN",
+    "participants": [],
+    "web": "https://owu.com.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "UI/UX designer",
+    "description": "Розробка зовнішньої та внутрішньої реклами, з використанням засобів площинної та тривимірної графіки.",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Front-end developer",
+    "description": "Навчання front-end розробці варто вибрати через глобальну цифровізацію – сьогодні практично не залишилося компаній, які не вийшли в онлайн.",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Full-stack developer",
+    "description": "Пройшовши курс Full Stack, ви станете універсальним програмістом, який може з нуля розробити повноцінний IT-продукт.",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Java developer",
+    "description": "Java розробку слід вибирати через її кросплатформеність – на Java можна створити будь-яку програму для будь-якого пристрою.",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Python developer",
+    "description": "Створення додатків із використанням штучного інтелекту сьогодні – пріоритетний IT-напрямок, і в майбутньому запит на нього лише зростатиме.",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Business Analysis",
+    "description": "Курс буде корисним всім, хто цікавиться бізнес-аналітикою: прагне опанувати нову професію або поглибити свої знання в області бізнес-аналізу в IT галузі.",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Project management",
+    "description": "Project Manager (проєктний менеджер, проджект-менеджер) - це спеціаліст, відповідальний за ефективну організацію всіх процесів у рамках проєкту та за його результат.",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "QA engineer",
+    "description": "За час навчання на курсі QA ви дізнаєтесь, як знаходити помилки та баги додатків за допомогою різноманітних методів тестування ПЗ. Навчитеся перевіряти додатки, сайти, програми на відповідність вимогам замовників.",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "DevOps",
+    "description": "Будь-яка компанія з розробки ПЗ прагне підвищити продуктивність розробників, скоротити час випуску нових додатків та оновлень з мінімальними помилками у процесі. DevOps - це той спеціаліст, який може організувати цей процес. ",
+    "organizer": "IT STEP",
+    "participants": [],
+    "web": "https://cloud.itstep.org/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Cybersecurity",
+    "description": "Курс створений у співпраці з агенцією Apercon та розглядає підготовку менеджерів з кібербезпеки з необхідними знаннями та навичками для ефективного управління кібербезпекою в організаціях.",
+    "organizer": "Hillel",
+    "participants": [],
+    "web": "https://ithillel.ua/school"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Recruitment & HR",
+    "description": "Ти навчишся шукати топових спеціалістів, проводити співбесіди, оцінювати кандидатів і зможеш працювати рекрутером в IT",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Business Analysis",
+    "description": "Ти навчишся спілкуватися з замовниками, розв'язувати проблеми бізнесу і зможеш працювати бізнес-аналітиком в IT або Digital",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "DevOps",
+    "description": "Компанії шукають DevOps-інженерів. Професія DevOps-спеціаліста може бути дуже вигідною для тих, хто бажає працювати в галузі інформаційних технологій",
+    "organizer": "Web Academy",
+    "participants": [],
+    "web": "https://web-academy.ua/"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Front-end developer",
+    "description": "FrontEnd розробник створює видиму для користувача частину веб-сторінки і його головне завдання – точно передати у верстанні те, що створив дизайнер, а також реалізувати логіку користувача.",
+    "organizer": "ITVDN",
+    "participants": [],
+    "web": "https://itvdn.com/ua"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "UI/UX designer",
+    "description": "UI/UX дизайнер — це проєктувальник користувацьких інтерфейсів, в яких зручності використання (UX) приділяється не менше уваги, ніж гарному та ефектному зовнішньому вигляду інтерфейсу (UI). ",
+    "organizer": "ITVDN",
+    "participants": [],
+    "web": "https://itvdn.com/ua"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Python developer",
+    "description": "Знаючи одну мову, Ви зможете реалізувати себе в будь-якому напрямку IT-розроблення. Поєднання простоти та багатства можливостей – ось за що цінують Python.",
+    "organizer": "ITVDN",
+    "participants": [],
+    "web": "https://itvdn.com/ua"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Java developer",
+    "description": "Надійність, потужність, ефективність та мультиплатформність – головні візитні картки Java. Якщо хочете працювати з класичним інструментом, якому під силу будь-яке завдання - Java для вас.",
+    "organizer": "ITVDN",
+    "participants": [],
+    "web": "https://itvdn.com/ua"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "Full-stack developer",
+    "description": "Web FullStack розробник є дуже цінним спеціалістом з високою затребуваністю для ІТ, оскільки здатний одноосібно створити веб-застосунок з нуля без залучення інших девелоперів",
+    "organizer": "ITVDN",
+    "participants": [],
+    "web": "https://itvdn.com/ua"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "QA engineer",
+    "description": "Контроль якості ПЗ та ретельне тестування дозволяє робити цифровий світ більш досконалим та зручним. Ви будете виконувати надзвичайно корисну роботу, без якої жодне ПЗ ніколи б не вийшло в світ",
+    "organizer": "ITVDN",
+    "participants": [],
+    "web": "https://itvdn.com/ua"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "UI/UX designer",
+    "description": "",
+    "organizer": "ITVDN",
+    "participants": [],
+    "web": "https://itvdn.com/ua"
+  },
+  {
+    "date": "2024-07-23T17:20:14.340Z",
+    "title": "No-code",
+    "description": "No-code-разработчик — это айтишник, который создает веб-приложения не через написание кода, а через платформы-конструкторы.",
+    "organizer": "GoIT",
+    "participants": [],
+    "web": "https://goit.global/ua/"
+  }
+]

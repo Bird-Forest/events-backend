@@ -12,10 +12,6 @@ const usersSchema = new Schema({
     type: String,
     required: true,
   },
-  birthday: {
-    type: Date,
-    required: true,
-  },
   radio: {
     type: String,
     required: true,
@@ -43,6 +39,10 @@ const eventSchema = new Schema(
     participants: {
       type: [usersSchema],
       default: undefined,
+    },
+    web: {
+      type: String,
+      required: true,
     },
   },
   { versionKey: false, timestamps: true }
